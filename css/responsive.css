@@ -1,0 +1,89 @@
+/* media screen mix 768*/
+
+@media screen and (max-width: 768px) {
+	
+.template{width:760px;} 
+.title {width: 237px; margin-left: 18px;} 
+.midleft {width: 257px;}
+.midleft h2 {margin-left: 23px;margin-bottom: -6px;margin-top: 3px;padding-bottom: 14px;}
+.midimage { width: 330px;}
+.midimage img {width: 313px; margin-top: 55px;   }
+.samearticle {margin-left: 30px; width: 168px;}   
+.allpost { margin-left: -30px;}  
+.samearticle h2{font-size: 22px} 
+.postlink{margin-left: 3px; margin-bottom: 11px;}
+ 
+}
+ 
+/* media screen mix 480*/ 
+ 
+@media screen and (max-width:480px){	
+.template{width:470px;} 	
+.title {width: 470px;margin-left: 0px;text-align: center;} 
+.title h2{margin:22px 0px;}
+.mainmenu{margin-top: 5px;float: left;font-size: 7px;}
+.maintop h2 {font-size: 25px;}
+.maintop h3 {  font-size: 22px;   }
+.description p{margin-top:0px;}
+.midcontect { height: 100%;  }
+.midimage img {width: 296px; margin-top: 35px;}
+.samearticle { margin-left: 30px; width: 339px; margin-bottom: 21px;  }
+.midleft {width: 257px;margin-left: 24px;} 
+.postlink { margin-left: 3px; margin-bottom: 11px;  width: 100%; }  	
+}
+ 
+ 
+/* media screen mix 360*/  
+
+@media screen and (max-width:360px){
+	
+.template{width:350px;}	
+.title { width: 100%; margin-left: 0px;  text-align: center;}
+.mainmenu {font-size:10px; margin-left: 16px;}
+.mainmenu a{font-size: 12px; padding-left: 5px;}
+.maintop { margin: 1px 7px;}  
+.maintop h2 { font-size: 20px;  }
+.maintop h3 { font-size: 18px; text-align:center;}
+.description p { margin-top: 4px; font-size: 16px;text-align: justify;}
+.content { margin: 0px 16px;}
+.midleft { margin-left: 3px; padding-bottom: 0px;}
+.midleft p { font-size: 13px; line-height: 20px; font-weight: bold; text-align: justify;}
+.midimage img {  width: 242px;  margin-top: 22px; margin-left: 44px;}
+.samepost {margin: 0 16px;   }
+.samearticle{width:286px; text-align: justify;}   
+.samearticle p{ text-align: justify;}   
+.footerp { margin: 0px 10px 0px 10px;	}
+}
+@media screen and (max-width:360px){
+	
+.template{width:310px;}	
+.title h2 { margin: 22px 0px;font-size: 30px;}
+.mainmenu { margin-left: 10px;}
+.mainmenu a { padding-left:0pX;}   
+.maintop h2 { font-size: 16px; text-align: center;}   
+.maintop h3 {  font-size: 16px; text-align: center;}
+.description p {  margin-top: 4px; font-size: 13px;text-align: justify;}
+.midleft { margin-left: -18px;}
+.midleft h2 {margin-left: 49px; margin-top:-3px;font-size:20px;width: 148px;}
+.midleft p { font-size: 12px;}
+.midimage img {margin-left: 93px;width: 185px;}
+.allpost { margin-bottom: -51px; padding-bottom: 3px;}  
+.samearticle h2 { padding-bottom: 10px; }
+.samearticle h2 { margin-left: 56px; width: 141px; font-size: 18px;}
+.samearticle {width: 246px;  }
+.samearticle p {  font-size: 12px;}
+.postlink {  margin-left: 19px; width: 83%;}
+.postlink a { font-size: 14px; padding-left: 31px;}
+.footersection { font-size: 12px;  }
+    
+    
+   
+    
+ 
+ 
+ 
+}
+ 
+
+
+ 
